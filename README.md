@@ -1,12 +1,11 @@
-# ORVIA Official Website v2.3.1
+# ORVIA Official Website v2.3.2
 
-## 最終確認版
-- HEROの英語3行（Play Freely / Respect Always / Enjoy the Game）を削除
-- Official Gaming Team は残しています
-- トップページのCOMMUNITYセクションのみ画像を削除
-- ORVIA CUSTOM / YouTube / Members をシンプルカードへ変更
-- カスタム詳細ページやMembersページの画像は変更していません
-- READY TO JOIN? の「ゲームを通じて、新しい仲間と出会おう。」をPCで1行表示に調整
-
-## 確認方法
-ZIPを展開し、`index.html` を開いて確認してください。
+## 公開前リンク修正版
+- トップページ「WATCH ON YOUTUBE」をORVIA公式YouTubeへ接続
+- JOINページ「Xで問い合わせる」をORVIA公式Xへ接続
+- メンバー募集詳細「Xで問い合わせる」をORVIA公式Xへ接続
+- ORVIA CUSTOM「開催情報を見る」をORVIA公式Xへ接続
+- 全ページFooterのX・YouTubeを公式アカウントへ接続
+- 外部リンクは新しいタブで安全に開く設定
+- Community詳細からTwitch表記を削除
+- キーボード操作時のフォーカス表示を追加
