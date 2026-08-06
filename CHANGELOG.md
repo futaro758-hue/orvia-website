@@ -38,3 +38,5 @@ Release Date: 2026-08-08
 - Membersページのみ、ふーたろう・ありしゃんの指定画像へ差し替え
 - 神鹿 綺の名前をホバー時に他メンバーと同じシアンへ統一
 - トップページの運営メンバー画像は変更なし
+
+- Final OGP image updated (removed orvia.gg text before domain acquisition)

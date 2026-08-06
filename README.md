@@ -19,3 +19,7 @@ ORVIA公式サイトの正式公開版です。
 https://orvia-website-one.vercel.app
 
 将来 `orvia.gg` を取得した際は、各HTML内の `og:url` と `og:image` を新しいドメインへ変更してください。
+
+
+## Final OGP Update
+- OGP画像を、`orvia.gg`表記なしの正式公開版へ差し替え
