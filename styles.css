@@ -246,9 +246,28 @@ button:focus-visible{
 .member-card.co-owner .member-role{
   color:var(--cyan);
 }
-.member-card.co-owner .member-name{
-  color:#fff;
-}
 .member-card.co-owner .member-line{
   background:var(--cyan);
+}
+
+
+/* Version 1.0 Release Final — Members page image and hover fixes */
+.member-card:hover .member-name{
+  color:var(--cyan) !important;
+}
+.member-card.co-owner:hover .member-name{
+  color:var(--cyan) !important;
+}
+.member-card.co-owner:not(:hover) .member-name{
+  color:#fff;
+}
+.member-image{
+  transform:none !important;
+  filter:none !important;
+  transition:none !important;
+  image-rendering:auto;
+}
+.member-card:hover .member-image{
+  transform:none !important;
+  filter:none !important;
 }
