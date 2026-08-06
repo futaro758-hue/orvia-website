@@ -1,11 +1,21 @@
-# ORVIA Official Website v2.3.2
+# ORVIA Official Website — Version 1.0 Release
 
-## 公開前リンク修正版
-- トップページ「WATCH ON YOUTUBE」をORVIA公式YouTubeへ接続
-- JOINページ「Xで問い合わせる」をORVIA公式Xへ接続
-- メンバー募集詳細「Xで問い合わせる」をORVIA公式Xへ接続
-- ORVIA CUSTOM「開催情報を見る」をORVIA公式Xへ接続
-- 全ページFooterのX・YouTubeを公式アカウントへ接続
-- 外部リンクは新しいタブで安全に開く設定
-- Community詳細からTwitch表記を削除
-- キーボード操作時のフォーカス表示を追加
+ORVIA公式サイトの正式公開版です。
+
+## Release Date
+2026-08-08
+
+## Included
+- 全ページ完成版
+- Streamer「ありしゃん」追加
+- Privacy Policy
+- 404 Page
+- Favicon
+- OGP / SEO metadata
+- Responsive Design
+- Official X / YouTube links
+
+## Current URL
+https://orvia-website-one.vercel.app
+
+将来 `orvia.gg` を取得した際は、各HTML内の `og:url` と `og:image` を新しいドメインへ変更してください。
