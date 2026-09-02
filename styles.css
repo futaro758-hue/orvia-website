@@ -271,3 +271,8 @@ button:focus-visible{
   transform:none !important;
   filter:none !important;
 }
+
+/* Members Update — 2026-09 */
+.member-subgroup{margin-top:34px}
+.member-subgroup-title{margin:0 0 18px;color:var(--muted);font-size:13px;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+
