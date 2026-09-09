@@ -40,3 +40,7 @@ Release Date: 2026-08-08
 - トップページの運営メンバー画像は変更なし
 
 - Final OGP image updated (removed orvia.gg text before domain acquisition)
+
+- Streamer「朱堂刹那」を追加（APEX Legends）
+- 「AI & Copyright Guidelines」ページを追加
+- FooterにAI & Copyright Guidelinesへのリンクを追加
