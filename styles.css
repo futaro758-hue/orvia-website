@@ -276,3 +276,23 @@ button:focus-visible{
 .member-subgroup{margin-top:34px}
 .member-subgroup-title{margin:0 0 18px;color:var(--muted);font-size:13px;font-weight:500;letter-spacing:.12em;text-transform:uppercase}
 
+
+
+/* Amato Bagu: preserve original PNG; display-only adjustments, no image processing */
+.member-card-original-image,
+.member-card-original-image:hover{
+  transform:none !important;
+}
+.member-card-original-image .member-image-wrap{
+  transform:none !important;
+  contain:layout paint;
+}
+.member-card-original-image .member-image-original{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  transform:none !important;
+  filter:none !important;
+  image-rendering:auto;
+}
